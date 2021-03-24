@@ -1,0 +1,1 @@
+../../View Controller.xctemplate/UICollectionViewController/___FILEBASENAME___CollectionViewDataSource.swift

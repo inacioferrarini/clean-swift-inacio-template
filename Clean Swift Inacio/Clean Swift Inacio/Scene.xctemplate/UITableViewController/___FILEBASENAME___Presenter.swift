@@ -1,0 +1,1 @@
+../../Presenter.xctemplate/Array/___FILEBASENAME___Presenter.swift

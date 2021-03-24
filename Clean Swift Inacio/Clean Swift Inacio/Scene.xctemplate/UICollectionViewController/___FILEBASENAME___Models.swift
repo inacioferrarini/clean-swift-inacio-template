@@ -1,0 +1,1 @@
+../../Models.xctemplate/Array/___FILEBASENAME___Models.swift

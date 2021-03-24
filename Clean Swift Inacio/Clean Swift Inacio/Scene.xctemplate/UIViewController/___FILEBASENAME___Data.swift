@@ -1,0 +1,1 @@
+../../Models.xctemplate/Simple/___FILEBASENAME___Data.swift

@@ -1,0 +1,1 @@
+../../Interactor.xctemplate/Array/___FILEBASENAME___Interactor.swift
